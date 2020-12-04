@@ -11,7 +11,7 @@ function About() {
                 </li>
                 <li className={'navheaders'}>
                     <Link href="/"><a>首页</a></Link>
-                    <Link href="/about"><a>菜单一</a></Link>
+                    <Link href="/about"><a>关于</a></Link>
                     <Link href="/"><a>菜单二</a></Link>
                     <Link href="/"><a>菜单三</a></Link>
                     <Link href="/"><a>菜单四</a></Link>
